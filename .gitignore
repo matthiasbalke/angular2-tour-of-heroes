@@ -33,3 +33,4 @@ gradle-app.setting
 node_modules
 build
 bower_components
+typings
